@@ -1,0 +1,1679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dabd1ba0-f55e-4234-aa16-a5e336aecb09" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Utils/WeatherConditionCodes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/CuacaModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/CuacaAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/ForecastModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/CuacaModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/CuacaWilayahModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/ForecastModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/PlaceModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/1 - Pencarian Wilayah/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/2 - Pencarian Wilayah (Autocomplete)/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/3 - Pencarian Wilayah GSON (Autocomplete)/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/4 - Pencarian Wilayah GSON (real Autocomplete)/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/5 - Pencarian Wilayah ambil WOEID/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/1 - Pencarian Wilayah/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/2 - Pencarian Wilayah (Autocomplete)/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/3 - Pencarian Wilayah GSON (Autocomplete)/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/4 - Pencarian Wilayah GSON (real Autocomplete)/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/5 - Pencarian Wilayah ambil WOEID/src/main/java/ai/nandaaye/weather1/PlaceModel.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/5 - Pencarian Wilayah ambil WOEID/src/main/java/ai/nandaaye/weather1/MainActivity.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/5 - Pencarian Wilayah ambil WOEID/src/main/java/ai/nandaaye/weather1/WilAdapter.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/5 - Pencarian Wilayah ambil WOEID/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/src/main/java/ai/nandaaye/weather1/MainActivity.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/src/main/java/ai/nandaaye/weather1/CuacaModel.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/java/ai/nandaaye/weather1/CuacaModel.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/java/ai/nandaaye/weather1/ForecastModel.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/java/ai/nandaaye/weather1/MainActivity.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/CuacaAdapter.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/CuacaModel.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/ForecastModel.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/9 - lihat Cuaca dari Pencarian Wilayah/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/9 - lihat Cuaca dari Pencarian Wilayah/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/@10 - lihat Cuaca dari Pencarian Wilayah (new icon)/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/MainActivity.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/build.gradle" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Utils/WeatherConditionCodes.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/CuacaModel.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/CuacaWilayahModel.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/ForecastModel.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/PlaceModel.java" />
+        <option value="$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="37" />
+    <option name="y" value="8" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="codeStyles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="1 - Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values-v21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="2 - Pencarian Wilayah (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values-v21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="3 - Pencarian Wilayah GSON (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="3 - Pencarian Wilayah GSON (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="3 - Pencarian Wilayah GSON (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="3 - Pencarian Wilayah GSON (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="3 - Pencarian Wilayah GSON (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="3 - Pencarian Wilayah GSON (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="3 - Pencarian Wilayah GSON (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="3 - Pencarian Wilayah GSON (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="3 - Pencarian Wilayah GSON (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="3 - Pencarian Wilayah GSON (Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values-v21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-hdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-mdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-xhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="4 - Pencarian Wilayah GSON (real Autocomplete)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-hdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="5 - Pencarian Wilayah ambil WOEID" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values-v21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="6 - lihat Cuaca berdasarkan WOEID (basic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values-v21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-hdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-mdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-xhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-xxhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="7 - lihat Cuaca berdasarkan WOEID (adv)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values-v21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-hdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-mdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-xhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-xxhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="8 - lihat Cuaca berdasarkan WOEID (epic)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values-v21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="9 - lihat Cuaca dari Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="9 - lihat Cuaca dari Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="9 - lihat Cuaca dari Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="9 - lihat Cuaca dari Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="9 - lihat Cuaca dari Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="9 - lihat Cuaca dari Pencarian Wilayah" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@10 - lihat Cuaca dari Pencarian Wilayah (new icon)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@11 - Material Design - Epic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@11 - Material Design - Epic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@11 - Material Design - Epic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@11 - Material Design - Epic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@11 - Material Design - Epic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@11 - Material Design - Epic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@11 - Material Design - Epic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@11 - Material Design - Epic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@11 - Material Design - Epic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EpicWeather-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="EpicWeather-master" type="462c0819:PsiDirectoryNode" />
+              <item name="@11 - Material Design - Epic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+              <item name="nandaaye" type="462c0819:PsiDirectoryNode" />
+              <item name="weather1" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dabd1ba0-f55e-4234-aa16-a5e336aecb09" name="Default Changelist" comment="" />
+      <created>1574690833421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574690833421</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33055976" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Build Variants" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/5 - Pencarian Wilayah ambil WOEID/src/main/java/ai/nandaaye/weather1/WilAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/5 - Pencarian Wilayah ambil WOEID/src/main/java/ai/nandaaye/weather1/PlaceModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/5 - Pencarian Wilayah ambil WOEID/src/main/java/ai/nandaaye/weather1/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/src/main/res/layout/main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/src/main/res/values-v21/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/6 - lihat Cuaca berdasarkan WOEID (basic)/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/java/ai/nandaaye/weather1/CuacaModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/java/ai/nandaaye/weather1/ForecastModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/java/ai/nandaaye/weather1/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/res/layout/main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-256" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/res/values-v21/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/7 - lihat Cuaca berdasarkan WOEID (adv)/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/res/layout/card.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/res/layout/main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/res/values-v21/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/9 - lihat Cuaca dari Pencarian Wilayah/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/9 - lihat Cuaca dari Pencarian Wilayah/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/9 - lihat Cuaca dari Pencarian Wilayah/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@10 - lihat Cuaca dari Pencarian Wilayah (new icon)/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@10 - lihat Cuaca dari Pencarian Wilayah (new icon)/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/assets/weathericons-regular-webfont.ttf">
+      <provider selected="true" editor-type-id="fontseditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/Screenshot_20161205-104826.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/Screenshot_20161205-104902.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Utils/WeatherConditionCodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/ForecastModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/CuacaModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/8 - lihat Cuaca berdasarkan WOEID (epic)/src/main/java/ai/nandaaye/weather1/CuacaAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/PlaceModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/ForecastModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/CuacaWilayahModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/java/ai/nandaaye/weather1/Model/CuacaModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EpicWeather-master/@11 - Material Design - Epic/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EpicWeather-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
